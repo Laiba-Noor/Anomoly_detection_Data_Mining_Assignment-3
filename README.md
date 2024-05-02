@@ -1,4 +1,4 @@
-![image](https://github.com/Laiba-Noor/Anomoly_detection_Data_Mining_Assignment-3/assets/88136283/1fb8e22a-d492-4427-aaea-8a034885167c)# Anomaly Detection Framework with Contrastive Learning and GAN
+# Anomaly Detection Framework with Contrastive Learning and GAN
 
 ## Introduction
 This repository contains an anomaly detection framework that leverages contrastive learning and Generative Adversarial Networks (GAN) to address overfitting in multivariate time series data. The implementation integrates various techniques, including data augmentation with geometric distribution masks, a Transformer-based Autoencoder, and contrastive loss, to achieve robust anomaly detection.
