@@ -6,8 +6,12 @@ This repository contains an anomaly detection framework that leverages contrasti
 ## Implementation Details
 
 ### Data Loading and Preprocessing
-The framework begins by loading the dataset from Google Drive and preprocessing it using pandas DataFrames. This step ensures that the data is ready for further processing and model training.
+The framework begins by loading the dataset from Google Drive and preprocessing it using pandas DataFrames.
+This step ensures that the data is ready for further processing and model training.
+
 ![image](https://github.com/Laiba-Noor/Anomoly_detection_Data_Mining_Assignment-3/assets/88136283/2aa27c34-0fe3-431c-aee8-5484afd76ad2)
+
+
 ![image](https://github.com/Laiba-Noor/Anomoly_detection_Data_Mining_Assignment-3/assets/88136283/0ae0e94d-2b48-4b06-ad18-0f911f7fc790)
 ### Data Visualization
 ![image](https://github.com/Laiba-Noor/Anomoly_detection_Data_Mining_Assignment-3/assets/88136283/876967ff-b7db-4a97-8fd9-4505f24539aa)
