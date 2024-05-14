@@ -9,6 +9,10 @@ This repository contains an anomaly detection framework that leverages contrasti
 The framework begins by loading the dataset from Google Drive and preprocessing it using pandas DataFrames. This step ensures that the data is ready for further processing and model training.
 ![image](https://github.com/Laiba-Noor/Anomoly_detection_Data_Mining_Assignment-3/assets/88136283/2aa27c34-0fe3-431c-aee8-5484afd76ad2)
 ![image](https://github.com/Laiba-Noor/Anomoly_detection_Data_Mining_Assignment-3/assets/88136283/0ae0e94d-2b48-4b06-ad18-0f911f7fc790)
+### Data Visualization
+![image](https://github.com/Laiba-Noor/Anomoly_detection_Data_Mining_Assignment-3/assets/88136283/876967ff-b7db-4a97-8fd9-4505f24539aa)
+
+![image](https://github.com/Laiba-Noor/Anomoly_detection_Data_Mining_Assignment-3/assets/88136283/f6e472dd-d358-4fec-b573-4437bc801c0d)
 
 ### Geometric Masking
 Geometric distribution masks are applied to the data as a data augmentation technique. This helps in introducing variability into the training data while preserving the underlying patterns.
@@ -34,9 +38,8 @@ The GAN model combines the Autoencoder and discriminator into a unified framewor
 
 ### Evaluation
 The trained Autoencoder is evaluated on a separate test dataset to detect anomalies. Reconstruction errors are computed for each data sample, and anomalies are identified based on predefined thresholds.
-
-## Assignment
-The assignment tasks you with implementing this anomaly detection framework on at least one dataset and demonstrating its effectiveness in detecting anomalies in multivariate time series data. You are encouraged to explore different datasets, experiment with hyperparameters, and fine-tune the model to achieve optimal performance.
+![image](https://github.com/Laiba-Noor/Anomoly_detection_Data_Mining_Assignment-3/assets/88136283/7c33b78b-9b97-4866-8d56-f1a89d7ab991)
+![image](https://github.com/Laiba-Noor/Anomoly_detection_Data_Mining_Assignment-3/assets/88136283/17a0d7d4-a0ac-47ab-969d-bed030f47174)
 
 ## Useful Links
 For your convenience, you can access public datasets for time series anomaly detection, such as the PSM dataset from eBay, using the following link: [TS-AD-Datasets](https://github.com/elisejiuqizhang/TS-AD-Datasets)
